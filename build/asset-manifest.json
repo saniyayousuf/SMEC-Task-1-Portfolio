@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e44656a8.css",
+    "main.js": "/static/js/main.598d7f92.js",
+    "static/media/Social_Media_Post_3.jpg": "/static/media/Social_Media_Post_3.1a80859ac13e4742d203.jpg",
+    "static/media/Social_Media_Post_13.jpg": "/static/media/Social_Media_Post_13.875edd85035856fa26f7.jpg",
+    "static/media/Social_Media_Post_9.jpg": "/static/media/Social_Media_Post_9.aadb1b8940c526d58bae.jpg",
+    "static/media/site-bg.jpg": "/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/services.png": "/static/media/services.8e66d4fbbd95de45b8db.png",
+    "static/media/AsimImg.png": "/static/media/AsimImg.40d5ce9744b17decd83f.png",
+    "static/media/Image_for_website_1.png": "/static/media/Image_for_website_1.c2827b039c0d296a0bfe.png",
+    "static/media/Logo.png": "/static/media/Logo.02edd258d4c83d8bfaff.png",
+    "static/media/AsimLogo.jpg": "/static/media/AsimLogo.3d9a72bd8e3540432c37.jpg",
+    "index.html": "/index.html",
+    "main.e44656a8.css.map": "/static/css/main.e44656a8.css.map",
+    "main.598d7f92.js.map": "/static/js/main.598d7f92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e44656a8.css",
+    "static/js/main.598d7f92.js"
+  ]
+}
